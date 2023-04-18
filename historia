@@ -1,0 +1,500 @@
+   86  git push
+   87  git branch -a
+   88  git checkout file
+   89  git status
+   90  git checkout -- plik1
+   91  git status
+   92  git cherry
+   93  git cherry -v
+   94  c
+   95  clean
+   96  cls
+   97  clear
+   98  git checkout test
+   99  git checkout master
+  100  git checkout test
+  101  touch s.txt
+  102  git add .
+  103  git commit -m fff
+  104  git checkout s.txt
+  105  git checkout master
+  106  git pull
+  107  git branch test2
+  108  git branch -ar
+  109  git branch -a
+  110  git cherry
+  111  git checkout 8868f14d739eeb0a091015651f297e7f00e3261e
+  112  git switch test
+  113  git switch master
+  114  git checkout test
+  115  echo "123" > 2.txt
+  116  git add .
+  117  git commit -m "sth"
+  118  echo "456" > 2.txt
+  119  cat 2.txt
+  120  git checkout -- 2.txt
+  121  cat 2.txt
+  122  git reset
+  123  git cherry -v
+  124  git cherry -v origin
+  125  exit
+  126  git config --edit --global
+  127  git init
+  128  git clone git@github.com:piotr-may/13-12-2022.git
+  129  git branch
+  130  touch dd.txt
+  131  echo "ffffbgtnth" > ds.txt
+  132  git commit -m "123"
+  133  git status
+  134  cd 13-12-2022
+  135  git status
+  136  git add .
+  137  git commit -m "123"
+  138  git status
+  139  cat dd
+  140  cat dd.txt
+  141  cat ds.txt
+  142  echo "cos" > ds.txt
+  143  echo "cos" > ds.txt
+  144  cat ds.txt
+  145  git checkout -- ds.txt
+  146  cat ds.txt
+  147  echo "cos" > ds.txt
+  148  git add .
+  149  git reset
+  150  cat ds.txt
+  151  git reset -f
+  152  git reset
+  153  git status
+  154  cat ds.txt
+  155  git add .
+  156  git status
+  157  git reset
+  158  git status
+  159  git clean -idf
+  160  git clean
+  161  git clean -n
+  162  ls -a
+  163  git commit -m "test"
+  164  git status
+  165  git add .
+  166  git commit -m "test"
+  167  git cherry -v
+  168  git cherry
+  169  git log
+  170  git log -f
+  171  git log -s
+  172  git log -m
+  173  git log -i
+  174  git clean -i
+  175  git clean -if
+  176  exit
+  177  git clean -idf
+  178  git clean -id
+  179  git clean -if
+  180  git clean 
+  181  git clean -n
+  182  git log --oneline
+  183  git push
+  184  git clean
+  185  git clean -idf
+  186  git clean -i
+  187  git update
+  188  git clean -idf
+  189  git clean -id
+  190  git clean -idf
+  191  git status
+  192  git push
+  193  exit
+  194  git fix
+  195  git repair
+  196  clean
+  197  clear
+  198  git -h
+  199  git help -a
+  200  git git
+  201  git gut
+  202  exit
+  203  git hack
+  204  hack
+  205  exit
+  206  git clone git@github.com:piotr-may/kartkowka.git
+  207  cd kartkowka/
+  208  git status
+  209  git push
+  210  git push
+  211  git push
+  212  git config --edit
+  213  git clone git@github.com:piotr-may/messi.git
+  214  cd messi/
+  215  git status
+  216  touch zsk
+  217  mkdir wakacje
+  218  echo "Piotr May" > wakacja/hiszpania
+  219  echo "Piotr May" > wakacje/hiszpania
+  220  cat wakacja/hiszpania
+  221  cat wakacje/hiszpania
+  222  git status
+  223  git clean -idf
+  224  git status
+  225  git add
+  226  git add .
+  227  git status
+  228  git push
+  229  git commit -m "commit1"
+  230  git push
+  231  git status
+  232  git branch marcin
+  233  git branch -a
+  234  git switch marcin
+  235  echo "wakacje 2023" > poprawka
+  236  git status
+  237  git add .
+  238  git commit -m "inny branch"
+  239  git push
+  240   git push --set-upstream origin marcin
+  241  git status
+  242  git rm poprawka
+  243  git status
+  244  git checkout -- poprawka
+  245  git reset
+  246  git status
+  247  git restore poprawka
+  248  git status
+  249  ls -a
+  250  git touch .sciaga
+  251  touch .sciaga
+  252  ls
+  253  echo "sciaga" > .gitignore
+  254  git status
+  255  git add .gitignore
+  256  git status
+  257  echo ".sciaga" > .gitignore
+  258  git status
+  259  git add .gitignore
+  260  git status
+  261  ls -a
+  262  ls
+  263  cat .gitignore
+  264  exit
+  265  git update
+  266  `git update-git-for-windows
+  267  git update-git-for-windows
+  268  git add .
+  269  git commit
+  270  exit
+  271  git status
+  272  git add .
+  273  git commit -m "xd"
+  274  git status
+  275  git status
+  276  clean
+  277  cls
+  278  cl
+  279  git pull
+  280  EXIT
+  281  git status
+  282  git add .
+  283  git commit -m "x"
+  284  git status
+  285  git status
+  286  git status
+  287  exit
+  288  git update-git-for-windows
+  289  exit
+  290  git edit --global --editor
+  291  git -h
+  292  git config --global --edit
+  293  git status
+  294  exit
+  295  git update-for-windows
+  296  git update-git-for-windows
+  297  exit
+  298  git clone git@github.com:piotr-may/obojetnie.git
+  299  cd obojetnie/
+  300  touch kaczor
+  301  git add .
+  302  git commit -m "Kaczor Donald"
+  303  git status
+  304  echo "Piotr" > kaczor
+  305  cat kaczor 
+  306  git add .
+  307  git commit -m "Dopisanie"
+  308  git status
+  309  git log
+  310  clear
+  311  git lig --oneline
+  312  git log --oneline
+  313  clear
+  314  echo > kaczor
+  315  cat kaczor
+  316  echo "nadpisanie" > kaczor
+  317  cat kaczor
+  318  git add .
+  319  git commit -m "Nadpisanie"
+  320  clear
+  321  git status
+  322  git status
+  323  clear
+  324  git log --summary
+  325  git log -- -h
+  326  git log --stat
+  327  git log --stat -- kaczor
+  328  git log -h
+  329  clear
+  330  git log -h
+  331  git log --stat
+  332  git log format="%an [%s]"
+  333  git log --format="%an [%s]"
+  334  git log --author="janusz" -7
+  335  git log --author="piotr-may" -7
+  336  git log --author="janusz" -7
+  337  git shortlog 
+  338  git log --oneline -1
+  339  touch file
+  340  mkdir dir
+  341  cl
+  342  mv -h
+  343  mv --help
+  344  mv file dir
+  345  ls
+  346  ls dir
+  347  tree
+  348  lsd
+  349  ls dir
+  350  git add .
+  351  git commit -m "moved file"
+  352  git log -- file
+  353  git log -- dir/file
+  354  exit
+  355  git update-for-windows
+  356  git update-git-for-windows
+  357  exit
+  358  git clone git@github.com:piotr-may/obojetnie.git
+  359  touch file
+  360  git add .
+  361  git commit -m "test"
+  362  touch plik.csv
+  363  git clone git@github.com:piotr-may/CSV_reader.git
+  364  git clone -f git@github.com:piotr-may/CSV_reader.git
+  365  git clone git@github.com:GitMasterProgrammer/CSV_READER.git
+  366  git update-git-for-windows 
+  367  git
+  368  clear
+  369  git clone git@github.com:piotr-may/Lewy.git
+  370  cd /Lewy
+  371  touch plik
+  372  mkdir folder
+  373  touch folder/plikfolder
+  374  git add .
+  375  git commit -m "added pliks"
+  376  git push
+  377  touch master
+  378  git add .
+  379  git commit -m "master"
+  380  git push
+  381  git pull
+  382  LS
+  383  git status
+  384  git push
+  385  git checkout -b janusz
+  386  touch janusz
+  387  git add .
+  388  git commit -m "branch janusz"
+  389  git pull
+  390  git branch
+  391  git pull all
+  392  git pull *
+  393  git pull .
+  394  clear
+  395  git pull oigin all
+  396  git pull oigin kolaborant
+  397  git pull origin kolaborant
+  398  branch
+  399  ls
+  400  git ls
+  401  git branch
+  402  git status
+  403  git branch
+  404  git branch -b
+  405  git pull kolaborant
+  406  git pull
+  407  git push
+  408  git push --set-upstream origin janusz
+  409  git branch kolaborant
+  410  clear
+  411  git checkout kolaborant 
+  412  ls
+  413  git checkout janusz
+  414  git rm plikC
+  415  rm plikC
+  416  ls
+  417  echo "janusz" > janusz
+  418  echo "janusz master" > janusz
+  419  git add .
+  420  git commit -m "branch janusz"
+  421  echo "janusz" > janusz
+  422  git commit -m "branch janusz"
+  423  git add .
+  424  git commit -m "branch janusz2"
+  425  git push origin janusz
+  426  git checkout kolaborant
+  427  git pull
+  428  ls
+  429  cat plikC
+  430  git pull origin kolaborant
+  431  cat plikC
+  432  echo "Janusz" >> plikC
+  433  cat plikC
+  434  git push origin kolaborant
+  435  git checkout janusz
+  436  git merge janusz
+  437  git update-git-for-windows 
+  438  git init
+  439  touch index.html
+  440  subl index.html 
+  441  git add .
+  442  git commit -m "c1"
+  443  git branch test
+  444  git branch
+  445  git checkout test
+  446  git add .
+  447  git status
+  448  git commit -m "Branch"
+  449  git checkout master
+  450  git merge test
+  451  git merge --auto
+  452  git reset
+  453  git status
+  454  git commit -m "XXX"
+  455  git add .
+  456  git commit -m "XXX"
+  457  git merge test
+  458  git test
+  459  git checkout test
+  460  git checkout master
+  461  git merge test
+  462  git add .
+  463   git commit -m "fdfeh"
+  464  git merge test
+  465  git checkout test
+  466  git status
+  467  git add .
+  468  git commit -m "XD"
+  469  git checkout master
+  470  git status
+  471  git add .
+  472  git commit -m "d"
+  473  git merge test
+  474  git status
+  475  git add .
+  476  git commit -m "Merged"
+  477  git log --graph
+  478  exit
+  479  git update-git-for-windows 
+  480  git clone git@github.com:piotr-may/social-app-tutorial.git
+  481  git clone git@github.com:piotr-may/social-app-tutorial.git
+  482  git clone git@github.com:piotr-may/social-app-tutorial.git
+  483  pwd
+  484  git clone git@github.com:piotr-may/social-app-tutorial.git
+  485  ssh-keygen -t ed25519 -C "walecznypiotr@gmail.com"
+  486  eval "$(ssh-agent -s)"
+  487  ssh-add ~/.ssh/klucz
+  488  ssh-add ~/.ssh/id_ed25519
+  489  ls ~/.ssh/
+  490  clip < ~/.ssh/id_ed25519.pub
+  491  clip < ~/.ssh/id_ed25519.pub
+  492  pwd
+  493  ssh-keygen -t ed25519 -C "walecznypiotr@gmail.com"
+  494  eval "$(ssh-agent -s)"
+  495  ssh-add ~/.ssh/id_ed25519
+  496  clip < ~/.ssh/id_ed25519.pub
+  497  git update-git-for-windows 
+  498  clear
+  499  git init
+  500  clear
+  501  clear
+  502  git clone git@github.com:piotr-may/sprawdzian.git
+  503  ls
+  504  cd sprawdzian
+  505  git branch spr_may
+  506  git checkout spr_may
+  507  git status
+  508  git push origin spr_may
+  509  git checkout main
+  510  touch main.txt
+  511  git add .
+  512  git checkout spr_may
+  513  ls
+  514  rm main.txt
+  515  git touch spr.txt
+  516  ls
+  517  touch spr.txt
+  518  git add .
+  519  git checkout main
+  520  ls
+  521  ls
+  522  touch main.txt
+  523  git status
+  524  git add .
+  525  git reset
+  526  git add main.txt
+  527  git status
+  528  git commit -m "added main file" 
+  529  git checkout spr_may
+  530  git checkout main
+  531  git commit -m "x"
+  532  git push origin main
+  533  ls
+  534  git rm spr.txt
+  535  git clear -f spr.txt
+  536  git clean -f spr.txt
+  537  git checkout spr_may _may
+  538  git checkout spr_may
+  539  ls
+  540  touch spr.txt
+  541  git commit -m "another file"
+  542  git add .
+  543  git commit -m "another file"
+  544  git push origin spr_may
+  545  git checkout main
+  546  git merge spr_may
+  547  ls
+  548  git merge -hel
+  549  git status
+  550  ls
+  551  git status
+  552  git branch
+  553  git push origin main
+  554  ls
+  555  clear
+  556  ls
+  557  git branch
+  558  history
+  559  clear
+  560  git log 
+  561  clear
+  562  git branch studia
+  563  git checkout studia
+  564  echo "12345" > plik22
+  565  git add .
+  566  git commit -m "plik22"
+  567  git push origin studia
+  568  git checkout main
+  569  ls
+  570  echo "hhhhh" > plik22
+  571  git add .
+  572  git commit -m "another plik22"
+  573  git push origin main
+  574  git merge studia
+  575  cat plik22
+  576  git log -3
+  577  git merge --quit
+  578  git branch historia
+  579  git checkout historia
+  580  git add .
+  581  git commit -m "ff"
+  582  git checkout historia
+  583  echo history > historia
+  584  cat historia
+  585  history > historia
